@@ -1,0 +1,58 @@
+AI HR RECRUITMENT ASSISTANT — SCREENING REPORT
+============================================================
+
+Candidate: Arjun Kumar
+Matched Job: Backend Python Developer (via RAG retrieval)
+Score: 100.0/100  |  Verdict: Strong Match - Recommend for Interview
+Matched Required Skills: git, python, rest api, sql
+Missing Required Skills: None
+Experience: 3.0 yrs (required 2 yrs)
+Interview Questions:
+  1. Can you walk us through a Python project where you had to optimize performance?
+  2. How would you optimize a slow-running SQL query on a large table?
+  3. What AWS services have you used in production, and how did you ensure cost efficiency?
+  4. How do you use Docker to ensure consistency across dev, staging, and production?
+  5. Tell us about yourself and why you're interested in this role.
+  6. Describe a challenging problem you solved recently and your approach.
+------------------------------------------------------------
+
+Candidate: Priya Sundaram
+Matched Job: Data Analyst (via RAG retrieval)
+Score: 100.0/100  |  Verdict: Strong Match - Recommend for Interview
+Matched Required Skills: data analysis, excel, sql
+Missing Required Skills: None
+Experience: 2.0 yrs (required 1 yrs)
+Interview Questions:
+  1. How would you optimize a slow-running SQL query on a large table?
+  2. Can you walk us through a Python project where you had to optimize performance?
+  3. Tell us about yourself and why you're interested in this role.
+  4. Describe a challenging problem you solved recently and your approach.
+  5. How do you prioritize tasks when handling multiple deadlines?
+  6. Tell us about a time you disagreed with a teammate. How did you resolve it?
+------------------------------------------------------------
+
+Candidate: Karthik Raja
+Matched Job: Backend Python Developer (via RAG retrieval)
+Score: 0.0/100  |  Verdict: Weak Match - Likely Not Suitable
+Matched Required Skills: None
+Missing Required Skills: git, python, rest api, sql
+Experience: 0 yrs (required 2 yrs)
+Interview Questions:
+  1. You don't have direct 'git' listed on your resume — have you worked with anything similar, and how would you ramp up quickly?
+  2. You don't have direct 'python' listed on your resume — have you worked with anything similar, and how would you ramp up quickly?
+  3. Tell us about yourself and why you're interested in this role.
+  4. Describe a challenging problem you solved recently and your approach.
+  5. How do you prioritize tasks when handling multiple deadlines?
+  6. Tell us about a time you disagreed with a teammate. How did you resolve it?
+------------------------------------------------------------
+
+
+RANKED SHORTLISTS (from Agent Memory)
+============================================================
+
+Top candidates for 'Backend Python Developer':
+  1. Arjun Kumar — 100.0/100 (Strong Match - Recommend for Interview)
+  2. Karthik Raja — 0.0/100 (Weak Match - Likely Not Suitable)
+
+Top candidates for 'Data Analyst':
+  1. Priya Sundaram — 100.0/100 (Strong Match - Recommend for Interview)
